@@ -1,0 +1,16 @@
+{
+"data: [
+  {
+  "id": 1,
+  "type": "trending",
+  "title": "Ganesh god",
+  "media": "https://images.unsplash.com/photo-1610085927744-7217728267a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FuZXNofGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+{
+  "id": 2,
+  "type": "trending",
+  "title": "Ganesh god",
+  "media": "https://images.unsplash.com/photo-1610085927744-7217728267a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FuZXNofGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  }
+]
+}
